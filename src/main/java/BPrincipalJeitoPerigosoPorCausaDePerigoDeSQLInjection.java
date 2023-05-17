@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.sql.*;
 import java.util.Scanner;
 
-public class BPrincipal {
+public class BPrincipalJeitoPerigosoPorCausaDePerigoDeSQLInjection {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
         System.out.print("Pesquisa por nome: ");
